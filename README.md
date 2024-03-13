@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SatyamAg003
-- 👀 I’m interested in VALORANT.
-- 🌱 I’m currently learning FULL-STACK-DEVELOPMENT.
-- 
-- 📫 How to reach me ---don't.
+- 👀Enthusiastic learner passionate about building user-friendly interfaces with HTML/CSS/JAVASCRIPT.
+-  Proficient in Python and Java, currently diving into React.
+-  Deep diving in Machine Learning.
+-  
 
 <!---
 SatyamAg003/SatyamAg003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
