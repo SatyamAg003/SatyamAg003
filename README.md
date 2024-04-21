@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SatyamAg003
-- 👀Enthusiastic learner passionate about building user-friendly interfaces with HTML/CSS/JAVASCRIPT.
+- 👀Enthusiastic learner passionate about building user-friendly interfaces with HTML/CSS/JAVASCRIPT/React
 -  Proficient in Python and Java, currently diving into React.
 -  Deep diving in Machine Learning.
 -  
